@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/KIMMIAE/coding-dojo.git"
   },
-  "author": "",
+  "author": "makim",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KIMMIAE/coding-dojo/issues"
@@ -18,6 +18,8 @@
   "devDependencies": {
     "@types/jasmine": "^3.6.10",
     "jasmine-ts": "^0.3.3",
+    "ts-loader": "^9.1.1",
+    "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
   }
 }
